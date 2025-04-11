@@ -1,0 +1,8 @@
+
+[submodule "algorithms-3-term"]
+	url = https://github.com/pr1kol2005/algorithms-3-term.git
+	path = 3rd_term
+
+[submodule "algorithms-4-term"]
+	url = https://gitlab.com/Oadalsaesa/algorithms-4-term.git
+	path = 4th_term
